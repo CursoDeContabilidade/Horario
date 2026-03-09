@@ -15,10 +15,21 @@
 
 ✅ **Resumo**
 
-* **Manhã:** Modelos obrigatórios
+* **Manhã:** Modelos obrigatórios (5 tempos)
 * **Tarde:** Livre
+
+---
 
 ### 📚 O que significam essas disciplinas
 
-**PMOPPOSL**
-Preencher os modelos obrigatórios para o pagamento das obrigações sociais e legais.
+**PMOPPOSL** — Preencher os modelos obrigatórios para o pagamento das obrigações sociais e legais.
+
+| Info             | Detalhe                          |
+| ---------------- | -------------------------------- |
+| 📆 Início        | 02/03/2026                       |
+| 🏁 Fim           | 17/04/2026                       |
+| ⏱ Duração        | 7 semanas · 8H/sem               |
+| 📊 CH Total      | 70H · Contacto: 56H              |
+| 👨‍🏫 Formador      | Maria Betânia                    |
+| ✅ Verificador    | Irina Uachave                    |
+

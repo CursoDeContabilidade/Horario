@@ -18,14 +18,43 @@
 * **Manhã:** Inglês + Economia
 * **Tarde:** Comunicação funcional
 
+---
+
 ### 📚 O que significam essas disciplinas
 
-**ULISSPP**
-Usar a língua inglesa em situações sociais, pessoais e profissionais.
+**ULISSPP** — Usar a língua inglesa em situações sociais, pessoais e profissionais.
 
-**RPESVPC**
-Resolver problemas económicos simples da vida pessoal e da comunidade.
+| Info             | Detalhe                          |
+| ---------------- | -------------------------------- |
+| 📆 Início        | 02/03/2026                       |
+| 🏁 Fim           | 27/03/2026                       |
+| ⏱ Duração        | 4 semanas · 4H/sem               |
+| 📊 CH Total      | 20H · Contacto: 16H              |
+| 👨‍🏫 Formador      | Sidônio Vinagre                  |
+| ✅ Verificador    | Cristo Gudson                    |
 
-**IPEOCF**
-Interpretar e produzir enunciados orais de carácter informativo-funcional.
+---
 
+**RPESVPC** — Resolver problemas económicos simples da vida pessoal e da comunidade.
+
+| Info             | Detalhe                          |
+| ---------------- | -------------------------------- |
+| 📆 Início        | 02/03/2026                       |
+| 🏁 Fim           | 27/03/2026                       |
+| ⏱ Duração        | 4 semanas · 4H/sem               |
+| 📊 CH Total      | 20H · Contacto: 16H              |
+| 👨‍🏫 Formador      | André Jaime                      |
+| ✅ Verificador    | Belmiro Mendes                   |
+
+---
+
+**IPEOCF** — Interpretar e produzir enunciados orais de carácter informativo-funcional.
+
+| Info             | Detalhe                          |
+| ---------------- | -------------------------------- |
+| 📆 Início        | 02/03/2026                       |
+| 🏁 Fim           | 27/03/2026                       |
+| ⏱ Duração        | 4 semanas · 4H/sem               |
+| 📊 CH Total      | 20H · Contacto: 16H              |
+| 👨‍🏫 Formador      | Jordina Giua                     |
+| ✅ Verificador    | Stela Taveira                    |

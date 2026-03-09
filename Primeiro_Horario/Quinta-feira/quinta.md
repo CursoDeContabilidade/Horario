@@ -18,13 +18,43 @@
 * **Manhã:** Modelos obrigatórios + Economia
 * **Tarde:** Comunicação funcional
 
+---
+
 ### 📚 O que significam essas disciplinas
 
-**PMOPPOSL**
-Preencher os modelos obrigatórios para o pagamento das obrigações sociais e legais.
+**PMOPPOSL** — Preencher os modelos obrigatórios para o pagamento das obrigações sociais e legais.
 
-**RPESVPC**
-Resolver problemas económicos simples da vida pessoal e da comunidade.
+| Info             | Detalhe                          |
+| ---------------- | -------------------------------- |
+| 📆 Início        | 02/03/2026                       |
+| 🏁 Fim           | 17/04/2026                       |
+| ⏱ Duração        | 7 semanas · 8H/sem               |
+| 📊 CH Total      | 70H · Contacto: 56H              |
+| 👨‍🏫 Formador      | Maria Betânia                    |
+| ✅ Verificador    | Irina Uachave                    |
 
-**IPEOCF**
-Interpretar e produzir enunciados orais de carácter informativo-funcional.
+---
+
+**RPESVPC** — Resolver problemas económicos simples da vida pessoal e da comunidade.
+
+| Info             | Detalhe                          |
+| ---------------- | -------------------------------- |
+| 📆 Início        | 02/03/2026                       |
+| 🏁 Fim           | 27/03/2026                       |
+| ⏱ Duração        | 4 semanas · 4H/sem               |
+| 📊 CH Total      | 20H · Contacto: 16H              |
+| 👨‍🏫 Formador      | André Jaime                      |
+| ✅ Verificador    | Belmiro Mendes                   |
+
+---
+
+**IPEOCF** — Interpretar e produzir enunciados orais de carácter informativo-funcional.
+
+| Info             | Detalhe                          |
+| ---------------- | -------------------------------- |
+| 📆 Início        | 02/03/2026                       |
+| 🏁 Fim           | 27/03/2026                       |
+| ⏱ Duração        | 4 semanas · 4H/sem               |
+| 📊 CH Total      | 20H · Contacto: 16H              |
+| 👨‍🏫 Formador      | Jordina Giua                     |
+| ✅ Verificador    | Stela Taveira                    |
